@@ -1,5 +1,5 @@
 - 👋 Hi, I’m William Barrett
-- 👀 I’m currently working as an engineer in manufacturing, but want to develop the skills to switch to software development.
+- 👀 I’m currently working as an engineer in manufacturing, and want to develop data science skills to specialise in data.
 - 🌱 I’m currently learning how to master Python.
 - 💞️ I’m looking to collaborate on any python based projects to gain experience.
 - 📫 How to reach me on LinkedIn @ https://www.linkedin.com/in/william-barrett-/
